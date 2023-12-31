@@ -3,6 +3,8 @@
 ## Description:
 Automated testing project for challenges on QAPlayground.dev using Cypress. This repository houses a collection of end-to-end (E2E) tests written in Cypress to automate and validate various challenges on the QAPlayground.dev platform. Each challenge is covered by dedicated test scripts, ensuring functionality, and providing a reliable automated solution.
 
+URL: [https://qaplayground.dev/#apps]
+
 ## Key Challenges Automated:
 
 Challenge 1: Onboarding Modal
